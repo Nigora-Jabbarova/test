@@ -1,5 +1,9 @@
 @charset "UTF-8";
 @import 'normal.css';
 body{
+<<<<<<< HEAD
     background-color: green;
+=======
+    background-color: indigo;
+>>>>>>> parent of 412cce3... background color has been changed to red
 }
